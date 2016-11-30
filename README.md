@@ -1,2 +1,2 @@
 # DefaultSnippetsXcode
-Default Snippets to Xcode
+Open ~/Library/Developer/Xcode/UserData/CodeSnippets/ and send codesnippet files
