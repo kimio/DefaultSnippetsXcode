@@ -1,7 +1,9 @@
 # DefaultSnippetsXcode
 Open ~/Library/Developer/Xcode/UserData/CodeSnippets/ and send codesnippet files
 
-# Commands
+Commands
+-------------------
+
 ```
 @if
 @init
@@ -12,3 +14,7 @@ Open ~/Library/Developer/Xcode/UserData/CodeSnippets/ and send codesnippet files
 @literal
 @const
 ```
+
+Problems
+-------------------
+If you don't find the folder CodeSnippets in ~/Library/Developer/Xcode/UserData/ create a new folder CodeSnippets
